@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "607876534577",
+    "firebase_url": "https://braintest-449c7.firebaseio.com",
+    "project_id": "braintest-449c7",
+    "storage_bucket": "braintest-449c7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:607876534577:android:c35c71ece334c4f3",
+        "android_client_info": {
+          "package_name": "com.example.krist.braintest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "607876534577-8vbt82nabecrbuggoqh18s2j3mtavkrd.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "607876534577-8vbt82nabecrbuggoqh18s2j3mtavkrd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKPAcILz8DAs4yxSEGAbBUcnAKKb4Sv5w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
